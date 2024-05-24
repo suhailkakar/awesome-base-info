@@ -658,3 +658,5 @@ that are inactive, outdated, or no longer relevant may be removed at any time.
 ## License
 
 [MIT License](LICENSE)
+
+> the list is based on @wbnns's awesome-base github repository.
