@@ -1,4 +1,4 @@
-# Awesome Base [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Base 
 
 **Awesome Base** is a list of Base ecosystem links including (d)apps, projects
 and more.
