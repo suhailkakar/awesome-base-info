@@ -1,4 +1,4 @@
-# Awesome Base 
+# Awesome Base
 
 **Awesome Base** is a list of Base ecosystem links including (d)apps, projects
 and more.
@@ -366,6 +366,14 @@ and more.
   modeling, and optimization projects. Finally, in 2022, Gauntlet spun out Aera,
   a treasury management protocol to optimize DAO funds autonomously and onchain.
 
+- **[GhostLogs](https://ghostlogs.xyz/)**: enables Edit-Mode for Deployed Smart Contracts. It lets developers fork
+  existing smart contracts, inject gasless events and modifications, backfill historical data, and frontfill with a
+  custom RPC fork.
+
+- **[GhostGraph](https://ghostgraph.xyz/)**: makes it easy to build blazingly fast indexers (subgraphs) for smart
+  contracts. GhostGraph is the first indexing solution that lets you write your index transformations in **Solidity**.
+  Base dApps can query data with GraphQL using our hosted endpoints.
+
 - **[Goldsky](https://goldsky.com/)**: Web3's Realtime Data Platform.
 
 - **[Helika](https://www.helika.io/)**: Helika is a full-stack blockchain
@@ -499,7 +507,7 @@ and more.
 
 - **[Decent](https://decent.xyz/)**: Cross-chain transactions, meet one-tap
   payments. Serve customers of every stripe with The Box, empowering them with
-  automatic swaps, built‑in bridging, and seamless secondary sales.
+  automatic swaps, built‑in bridging, and seamless secondary sales.
 
 - **[Guild](https://guild.xyz)**: Guild is an automation platform for onboarding
   Web3 communities, it can identify NFT holders, active developers, social media
