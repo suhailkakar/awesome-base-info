@@ -96,6 +96,10 @@ and more.
   earning interest on supplied assets and borrowing in an overcollateralized
   manner.
 
+- **[Aerodrome](https://aerodrome.finance/)**: Aerodrome Finance is a next-generation AMM
+  designed to serve as Base's central liquidity hub, combining a powerful liquidity
+  incentive engine, vote-lock governance model, and friendly user experience.
+
 - **[Ankr](https://www.ankr.com/)**: Build on Web3 with a fast, reliable and
   distributed network of blockchain nodes.
 
