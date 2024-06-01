@@ -154,6 +154,13 @@ and more.
   counterparties, or order books. The result is a permissionless,
   governance-minimized protocol with no liquidity fragmentation.
 
+- **[Peapods Finance](https://peapods.finance)**: Peapods Finance is a
+  permissionless DeFi platform that offers sustainable yield on any asset through
+  'Volatility Farming'. Users deposit assets into 'Pods' to earn yield and can
+  provide liquidity to increase their returns. Volatility Farming generates
+  revenue by creating arbitrage opportunities. This revenue is distributed as
+  yield to those who deposit and/or provide liquidity into the Pod.
+
 - **[Pike](https://pike.finance)**: Pike is a Universal Liquidity Protocol, it
   is designed to unleash utility for native crypto assets by aggregating
   liquidity across blockchain networks.
